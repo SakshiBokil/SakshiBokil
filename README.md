@@ -1,7 +1,9 @@
 # Hi, I'm Sakshi Bokil
 
-🎓 **MS in Applied Data Science** @ The University of Chicago
-📍 Chicago, Illinois
+🎓 **MS in Applied Data Science** @ The University of Chicago  
+
+📍 Chicago, Illinois  
+
 📫 [sakshi.bokil@gmail.com](mailto:sakshi.bokil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakshibokil)
 
 ---
@@ -17,7 +19,7 @@ I’m currently seeking **Data Scientist** and **Data Analyst** roles where I ca
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 **Programming:** Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch), R, SQL, PySpark  
 **Analytics & Visualization:** Power BI, Tableau, Excel, Matplotlib, Seaborn  
@@ -27,51 +29,53 @@ I’m currently seeking **Data Scientist** and **Data Analyst** roles where I ca
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🏢 **Jones Lang LaSalle (JLL)** — *Data Analyst Intern* (Summer 2025)
+### **Jones Lang LaSalle (JLL)**
+*Data Analyst Intern* (Summer 2025)
 - Automated **Risk Control Test Matrix generation** using an agent-based data pipeline, reducing manual audit effort by 40%.  
 - Built **Power BI dashboards** to visualize cross-functional risk trends, supporting data-driven decision-making for senior stakeholders.  
 - Analyzed large-scale audit datasets on **Databricks (SQL + Python)** to uncover recurring risk patterns.
 
-### 💡 **Deloitte** — *Associate Analyst* (2023–2024)
+### **Deloitte**
+*Associate Analyst* (2023–2024)
 - Conducted and analyzed **100+ accessibility defects**, delivering insights that led to measurable UI/UX improvements.  
 - Led **client interviews** and synthesized findings into a data-backed accessibility scorecard for executives.
 
-### 📊 **GroGlobally** — *Market Research Intern* (2022)
+### **GroGlobally** — *Market Research Intern* (2022)
 - Designed **interactive Tableau dashboards** to visualize market insights, saving 15+ hours of manual reporting each month.  
 - Conducted **quantitative and qualitative analysis** across 100+ industry reports to identify emerging business opportunities.
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
-### 🔹 **Global Mobility Automation**
+### **Global Mobility Automation**
 - Designed a **LangChain-based routing agent** to classify user intents for HR relocation queries with >90% accuracy.  
 - Built a conversational UI in **Chainlit**, integrating secure file uploads and dynamic data collection for process automation.
 
-### 🔹 **Job-Candidate Matching Platform**
+### **Job-Candidate Matching Platform**
 - Developed a **multi-label classification model** to tag job descriptions by required skills.  
 - Created a **bi-directional recommendation system** to match resumes with ideal job postings using Streamlit.
 
-### 🔹 **Hand2Text: ASL-to-English Translator**
+### **Hand2Text: ASL-to-English Translator**
 - Trained a **CNN (MobileNetV2)** for real-time American Sign Language (ASL) gesture recognition.  
 - Integrated **semantic analysis** to provide contextual translation and emotional tone scoring.
 
-### 🔹 **Spotify Popularity Prediction**
+### **Spotify Popularity Prediction**
 - Built a **Random Forest model** to predict song popularity using artist and audio features.  
 - Introduced **genre-based clustering** to improve interpretability and support marketing strategies.
 
-### 🔹 **Stack Overflow NLP Analysis**
+### **Stack Overflow NLP Analysis**
 - Processed **30GB of text data** using SparkNLP on GCP to identify developer sentiment and topic trends.  
 - Trained **logistic regression models** for post classification with SparkML to enhance tagging accuracy.
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/sakshibokil)  
-📧 [sakshi.bokil@gmail.com](mailto:sakshi.bokil@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sakshibokil)  
+[sakshi.bokil@gmail.com](mailto:sakshi.bokil@gmail.com)
 
 ---
 
