@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Sakshi Bokil
+# Hi, I'm Sakshi Bokil
 
-🎓 **MS in Applied Data Science** @ The University of Chicago (Expected Dec 2025)  
-📍 Chicago, Illinois  
+🎓 **MS in Applied Data Science** @ The University of Chicago
+📍 Chicago, Illinois
 📫 [sakshi.bokil@gmail.com](mailto:sakshi.bokil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakshibokil)
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I’m a **data-driven problem solver** passionate about transforming complex data into actionable insights that drive strategic decisions.  
 My background combines **data analytics, machine learning, and cloud technologies** — enabling me to build scalable, intelligent systems that deliver measurable business value.
@@ -35,7 +35,6 @@ I’m currently seeking **Data Scientist** and **Data Analyst** roles where I ca
 - Analyzed large-scale audit datasets on **Databricks (SQL + Python)** to uncover recurring risk patterns.
 
 ### 💡 **Deloitte** — *Associate Analyst* (2023–2024)
-- Developed an **ensemble machine learning model** that improved web accessibility compliance by 70% for a global footwear client.  
 - Conducted and analyzed **100+ accessibility defects**, delivering insights that led to measurable UI/UX improvements.  
 - Led **client interviews** and synthesized findings into a data-backed accessibility scorecard for executives.
 
@@ -75,8 +74,6 @@ I’m currently seeking **Data Scientist** and **Data Analyst** roles where I ca
 📧 [sakshi.bokil@gmail.com](mailto:sakshi.bokil@gmail.com)
 
 ---
-
-## 🧾 License
 
 This repository and its contents are shared for **educational and professional demonstration purposes only**.  
 Feel free to explore or connect to discuss collaborations in **data science, analytics, and AI**.
