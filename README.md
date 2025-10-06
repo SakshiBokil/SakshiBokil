@@ -11,6 +11,7 @@
 ## About Me
 
 I’m a **data-driven problem solver** passionate about transforming complex data into actionable insights that drive strategic decisions.  
+
 My background combines **data analytics, machine learning, and cloud technologies** — enabling me to build scalable, intelligent systems that deliver measurable business value.
 
 I’ve applied these skills in professional settings at **Deloitte** and **JLL**, and through academic and personal projects that range from **predictive modeling** to **AI-powered automation**.
@@ -73,9 +74,8 @@ I’m currently seeking **Data Scientist** and **Data Analyst** roles where I ca
 ---
 
 ## Connect with Me
-
-[LinkedIn](https://www.linkedin.com/in/sakshibokil)  
-[sakshi.bokil@gmail.com](mailto:sakshi.bokil@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/sakshibokil)  
+- [sakshi.bokil@gmail.com](mailto:sakshi.bokil@gmail.com)
 
 ---
 
